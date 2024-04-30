@@ -1,0 +1,9 @@
+[submodule "angular-app"]
+	path = angular-app
+	url = https://github.com/GPrakasha/single-spa-test1/angular-app
+[submodule "react-app"]
+	path = react-app
+	url = https://github.com/GPrakasha/single-spa-test1/react-app
+[submodule "root-config"]
+	path = root-config
+	url = https://github.com/GPrakasha/single-spa-test1/root-config
